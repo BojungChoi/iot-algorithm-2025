@@ -38,10 +38,10 @@ IoT 개발자 자료구조와 알고리즘(코딩테스트)  리포지토리 202
 ## 2일차
 
 - 기초 문법
-    - 리스트 컴프리헨션(List Comprension)
+    - 리스트 컴프리헨션(List Comprension) 복습 : [노트북](./day02/da01_list_again.ipynb)
 
 - 자료구조
-    - 선형 리스트 부터 원형 리스트 까지
-
+    - 선형 리스트 : [노트북](./day02/da02_linear_list.ipynb)
+    - 연결 리스트 : [노트북](./day02/da04_linked_list.ipynb)
     
 
