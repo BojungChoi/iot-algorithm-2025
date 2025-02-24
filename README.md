@@ -101,9 +101,12 @@ https://github.com/user-attachments/assets/74a0f92a-d63c-4a0f-9a8d-5f4333801534
         - 퀵 정렬
         - 정렬 알고리즘 응용
 
+        <img src="./image/coupdog2.png" width = "600">
+
     - 동적 계획법
 
 ## 8일차
 - 자료구조/알고리즘
-    - 검색
+    - 검색 : [노트북](./day08/da01_search.ipynb)
+        - 검색 구현 : [파이썬](./day08/da_02_search.py)
     - 코딩테스트(2.24 월요일)
